@@ -1,0 +1,23 @@
+{
+  "name": "graph.funnel",
+  "version": "0.0.1",
+  "authors": [
+    "zcfrank1st"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "3.4.11",
+    "angular": "1.2.24",
+    "d3-funnel-charts": "https://raw.githubusercontent.com/smilli/d3-funnel-charts/master/dist/d3-funnel-charts.min.js"
+  }
+}
