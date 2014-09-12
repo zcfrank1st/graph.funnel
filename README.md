@@ -8,6 +8,6 @@ this is a directive for angularjs, it's a simple graph of funnel
 ###  Usage
 
 example is in the `example` dir
-	
-###  License
+
+###  Licence
 MIT
