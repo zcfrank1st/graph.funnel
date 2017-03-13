@@ -1,5 +1,8 @@
 {
   "name": "graph.funnel",
+  "main": [
+    "./graph.funnel.js"
+  ]
   "version": "0.0.1",
   "authors": [
     "zcfrank1st"
